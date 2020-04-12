@@ -1,0 +1,28 @@
+#retangle{
+    width: 500px;
+    height: 250px;
+    background-color: red;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+input{
+    width: 45px;
+    float: left;
+    position: relative;
+}
+input#value-1{
+    margin-top: -10px;
+    margin-left: 350px;
+}
+input#value-2{
+    margin-top: -10px;
+    margin-left: 510px;
+}
+input#value-3{
+    margin-top: 245px;
+    margin-left: -600px;
+}
+input#value-4{
+    margin-top:235px;
+    margin-left:905px;
+}
